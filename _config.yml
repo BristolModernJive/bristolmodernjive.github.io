@@ -6,12 +6,12 @@ description: A simple, bubbly and fun partner dance suitable to all sorts of mus
 baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 105 Queens Road
+city: Bristol
+state: 
+zip_code: BS8 1LN
+country: United Kingdom
+phone: +44 07746352343
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -19,7 +19,7 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/uobmodernjive
 github_url: https://bristolmodernjive.github.io/
 #gitlab_url: https://gitlab.com/andrewbanchich
 #googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
