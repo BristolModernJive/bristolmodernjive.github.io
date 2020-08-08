@@ -1,8 +1,8 @@
 # site settings
 title: Modern Jive	
-subtitle: by HTML5 UP
+subtitle: University of Bristol
 email: bristolleroc@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: A simple, bubbly and fun partner dance suitable to all sorts of music genres!
 baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -23,7 +23,7 @@ facebook_url:
 github_url: https://bristolmodernjive.github.io/
 #gitlab_url: https://gitlab.com/andrewbanchich
 #googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
+instagram_url: https://instagram.com/uobmodernjive
 #linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 #pinterest_url:
 #slack_url:
