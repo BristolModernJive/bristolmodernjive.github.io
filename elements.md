@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Us
-image: assets/images/pic11.jpg
+image: assets/images/crowd.jpg
 nav-menu: true
 ---
 
