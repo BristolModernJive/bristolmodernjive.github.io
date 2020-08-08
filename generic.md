@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Dance with Us
+description: Find out more about Classes and our Membership options
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
