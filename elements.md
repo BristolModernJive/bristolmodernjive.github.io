@@ -2,6 +2,7 @@
 layout: post
 title: About Us
 image: assets/images/crowd.jpg
+description: What is Modern Jive? What is all the hype about?
 nav-menu: true
 ---
 
