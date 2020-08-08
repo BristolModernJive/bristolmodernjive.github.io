@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Committee
+title: Our Committee
 description: Get to know your committee!
-image: assets/images/pic11.jpg
+image: assets/images/committee.jpg
 nav-menu: true
 ---
 
