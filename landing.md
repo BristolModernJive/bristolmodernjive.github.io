@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: What We Do
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Find out about our events, dance freestyles and<br />and how we will keep you engaged during COVID.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
