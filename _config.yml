@@ -29,13 +29,17 @@ instagram_url: https://instagram.com/uobmodernjive
 #slack_url:
 #twitter_url: https://twitter.com/andrewbanchich
 
-google_analytics: UA-174924016-1
+
 
 # build settings
 markdown: kramdown
 
 sass:
   style: compressed
+
+
+google_analytics: UA-174924016-1
+
 
 #plugins:
  # - jekyll-analytics
