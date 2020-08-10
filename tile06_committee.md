@@ -16,4 +16,4 @@ Committee:
 - Secretary: Rosalind Tait
 - Equality and Diversity Officer: Izzi Eyles
 - Freestyle Rep: Jeremy Cochain
-- Music Rep: Ethan Shawn
+- Music Rep: Ethan Shaw
