@@ -4,7 +4,7 @@ title: Blackpool 2021
 description: Join us at the World Modern Jive Championship!
 image: assets/images/crowd.jpg
 nav-menu: true
-permalink: /blackpool/
+permalink: /blackpool
 ---
 
 The modern jive society goes to world class jive competition every year! These competitions take place in the UK and are open for beginner to professional, for pair, solo or teams.
