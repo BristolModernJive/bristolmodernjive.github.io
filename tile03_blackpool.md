@@ -2,7 +2,7 @@
 layout: post
 title: Blackpool 2021
 description: Join us at the World Modern Jive Championship!
-image: assets/images/crowd.jpg
+image: assets/images/blackpool.jpg
 nav-menu: true
 permalink: /blackpool
 ---
