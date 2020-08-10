@@ -1,0 +1,27 @@
+{
+  "short_name": "MJ Society",
+  "name": "Modern Jive Society",
+  "description": "Fun Dance Society at the University of Bristol",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png?v=E6wvkOyGzw",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/android-chrome-384x384.png?v=E6wvkOyGzw",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+	{
+      "src": "/android-chrome-512x512.png?v=E6wvkOyGzw",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#14e2e4",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#14e2e4"
+}
