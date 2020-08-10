@@ -1,7 +1,7 @@
 ---
-title: What We Do
+title: Upcoming Socials
 layout: landing
-description: 'Find out about our events, dance freestyles and<br />and how we will keep you engaged during COVID.'
+description: 'Find out about our buzzing monthly socials, Christmas Ball and <br />how we will keep you engaged during COVID.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

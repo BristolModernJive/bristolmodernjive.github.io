@@ -1,8 +1,8 @@
 ---
 layout: post
-title: About Us
+title: Upcoming Freestyles
 image: assets/images/crowd.jpg
-description: What is Modern Jive? What is all the hype about?
+description: Come dance with us at local freestyles!
 nav-menu: true
 ---
 
