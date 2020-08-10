@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Modern Jive Society'
+title: Modern Jive Society
+landing-title: 'Modern Jive Society - University of Bristol'
 description: null
 image: null
 author: null
