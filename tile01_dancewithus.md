@@ -13,3 +13,5 @@ We dance every Thursdays at 8pm in the prestigious Carpenter Room at the Richmon
 - Online Membership:
 - Social Membership:
 
+
+BY: Andrea & Jamie 
