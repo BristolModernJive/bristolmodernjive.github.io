@@ -4,6 +4,7 @@ title: Upcoming Freestyles
 image: assets/images/crowd.jpg
 description: Come dance with us at local freestyles!
 nav-menu: true
+permalink: /freestyles
 ---
 
 <!-- Main -->

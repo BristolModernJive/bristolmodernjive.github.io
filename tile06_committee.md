@@ -4,6 +4,7 @@ title: Our Committee
 description: Get to know your committee!
 image: assets/images/committee.jpg
 nav-menu: true
+permalink: /committee
 ---
 
 Committee:
