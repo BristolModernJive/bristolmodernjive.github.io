@@ -7,18 +7,6 @@ nav-menu: true
 permalink: /committee
 ---
 
-Committee:
-
-- President: Mauro Camara Escudero
-- Vice-President: Andrea Becsek
-- Treasurer: Jamie Cameron
-- Social Sec: Isabel Bromfield
-- Secretary: Rosalind Tait
-- Equality and Diversity Officer: Izzi Eyles
-- Freestyle Rep: Jeremy Cochain
-- Music Rep: Ethan Shaw
-
-
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>President: Mauro Camara Escudero</h3>
