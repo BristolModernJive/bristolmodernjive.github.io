@@ -21,11 +21,11 @@ Committee:
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>President</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>President: Mauro Camara Escudero</h3>
+		<p>Hey Jivers! I’m Mauro and I’m super thrilled to be part of our new committee, which you’ll get to know in the next few days through our social media. I’ve only been jiving since September and during this past year of Modern Jive I have made some incredible friends and learnt so much. I can’t stress enough how lucky we are to have had such an outstanding committee who, together with our teachers Matt and Sarah, did a marvellous job at making classes lively and enjoyable last year. I’m looking forward to dancing and chatting with every single one of you, making sure that the society runs smoothly and, most importantly, ensuring that Thursday nights will be the highlight of your week, as they are mine! Meanwhile, we have a lot of exciting activities planned for this lockdown period, so stay tuned!</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Vice-President</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Vice-President: Andrea Becsek</h3>
+		<p>Hello lovely people 🙂 My name is Andrea and I will be your vice-president for this year. I have loved Modern Jive from the very first lesson, and I am here to help make your experience as enjoyable as possible. See you all on the dance floor!</p>
 	</div>
 </div>
