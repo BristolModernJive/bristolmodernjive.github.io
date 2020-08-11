@@ -7,7 +7,7 @@ nav-menu: true
 permalink: /gallery
 ---
 
-Pictures and videos go here.
+# Blackpool
 
 
 <div class="box alt">
