@@ -7,4 +7,4 @@ nav-menu: true
 permalink: /merch
 ---
 
-Merchandise information goes here.
+Merchandise information for 2020/2021 will be posted soon!
