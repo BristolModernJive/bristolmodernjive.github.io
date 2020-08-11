@@ -25,3 +25,18 @@ permalink: /gallery
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/blackpool/fig9.jpg %}" alt="" /></span></div>
 	</div>
 </div>
+
+
+# Classes
+
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/classes/fig1.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/classes/fig2.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/classes/fig3.jpg %}" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/classes/fig4.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/classes/fig5.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/classes/fig6.jpg %}" alt="" /></span></div>
+	</div>
+</div>
