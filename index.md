@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best! Modern Jive is the best!
+Unfortunately, due to Coronavirus, we are unsure of how our lessons will work in the 2020/21 year. We will post here and on our social media when we have more information. Whatever happens, we’ll be holding dance lessons and socials, even if we have to be online for while!
