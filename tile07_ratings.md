@@ -9,4 +9,29 @@ permalink: /ratings
 
 
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://modernjive.uk/infographic.pdf" width="100%" height="800%">
+<div class="content">
+    <div class="embed-container">
+        <iframe src="/images/myPDF.pdf" frameborder="0"></iframe>
+    </div>
+</div>
+
+.content {
+   width: 50%;
+   margin: 0px auto;
+}
+
+.embed-container {
+   height: 0;
+   width: 100%;
+   padding-bottom: 56.25%; /* play with this until right */
+   overflow: hidden;
+   position: relative;
+}
+
+.embed-container iframe {
+   width: 100%;
+   height: 100%;
+   position: absolute;
+   top: 0;
+   left: 0;
+}
