@@ -80,7 +80,7 @@
 		background: _palette(border-bg);
 		border: none;
 		border-radius: 0;
-		color: inherit;
+		color: _palette(input-text);
 		display: block;
 		outline: 0;
 		padding: 0 1em;
@@ -199,17 +199,17 @@
 	}
 
 	::-webkit-input-placeholder {
-		color: _palette(input-text) !important;
+		color: _palette(fg-light) !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: _palette(input-text) !important;
+		color: _palette(fg-light) !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: _palette(input-text) !important;
+		color: _palette(fg-light) !important;
 		opacity: 1.0;
 	}
 
