@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Our Sponsors
-description: Local businesses supporting us!
+title: Our Sponsor
+description: Find out more about the local business supporting us!
 image: assets/images/merch.jpg
 nav-menu: true
 permalink: /sponsors
