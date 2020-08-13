@@ -10,7 +10,7 @@ permalink: /ratings
 # 2019/2020 Rate my Group
 Each year the SU gathers feedback from society members via the Rate My Group (RMG) form. We've created an intuitive infographic so you can see how much our members love us!
 
-<span class="image fit"><img src="{% link assets/images/infographic.png %}" alt="" /></span>
-
-
-<a href="infographic.pdf" class="button">2019/2020 Rate My Group</a>
+<ul class="actions fit">
+	<li><a href="infographic2019.pdf" class="button fit">2018/2019</a></li>
+	<li><a href="infographic2020.pdf" class="button fit">2019/2020</a></li>
+</ul>
