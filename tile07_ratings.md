@@ -7,4 +7,6 @@ nav-menu: true
 permalink: /ratings
 ---
 
-<iframe src="http://docs.google.com/gview?url=http://modernjive.uk/infographic.pdf&embedded=true" style="width:2000px; height:800px;" frameborder="0"></iframe>
+
+
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://modernjive.uk/infographic.pdf" width="500" height="375">
