@@ -21,3 +21,11 @@ Due to the current situation there will be 2 options that apply to term 1 only (
 - Option 1 - Become a member for £30 giving you access to all classes in term 1 and discount on society socials
 
 - Option 2 - You can purchase lessons individually as a non member for £4
+
+# Stay in Touch
+Find us on our social media!
+
+- [Instagram](https://www.instagram.com/uobmodernjive/)
+- [Facebook](https://www.facebook.com/uobmodernjive)
+
+Feel free to message us on these, or email bristolleroc@gmail.com if you have any questions.
