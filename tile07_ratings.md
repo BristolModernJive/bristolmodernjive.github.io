@@ -9,29 +9,8 @@ permalink: /ratings
 
 
 
-<div class="content">
-    <div class="embed-container">
-        <iframe src="/images/myPDF.pdf" frameborder="0"></iframe>
-    </div>
-</div>
-
-.content {
-   width: 50%;
-   margin: 0px auto;
-}
-
-.embed-container {
-   height: 0;
-   width: 100%;
-   padding-bottom: 56.25%; /* play with this until right */
-   overflow: hidden;
-   position: relative;
-}
-
-.embed-container iframe {
-   width: 100%;
-   height: 100%;
-   position: absolute;
-   top: 0;
-   left: 0;
-}
+<object data="infographic.pdf" type="application/pdf" width="100%" height="800px"> 
+  <p>It appears you don't have a PDF plugin for this browser.
+   No biggie... you can <a href="infographic.pdf">click here to
+  download the PDF file.</a></p>  
+</object>
