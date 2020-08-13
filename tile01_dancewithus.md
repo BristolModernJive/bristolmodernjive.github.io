@@ -16,8 +16,8 @@ UoB’s Modern Jive Society hosts a lesson every week and teaches different move
 Our classes are taught by a professional couple: Matt Kavanagh (World Champion Dancer 2013 and 2017) and Sarah Price. We divide up into those who want to lead and those who want to follow (there are no gender expectations for these roles) and cycle round the partners for the whole lesson; guaranteeing you’ll meet at least 50% of the other members. Our society is designed around inclusivity and having fun while learning to dance!
 
 # Membership options, class price & class time
+Due to the current situation there will be 2 options that apply to term 1 only (Term 2 tbc):
 
-- All-Year Membership:
-- One-Term Membership:
-- Online Membership:
-- Social Membership:
+- Option 1 - Become a member for £30 giving you access to all classes in term 1 and discount on society socials
+
+- Option 2 - You can purchase lessons individually as a non member for £4
