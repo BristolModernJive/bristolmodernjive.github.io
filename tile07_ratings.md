@@ -9,4 +9,4 @@ permalink: /ratings
 
 
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://modernjive.uk/infographic.pdf" width="500" height="500">
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://modernjive.uk/infographic.pdf" width="500" height="1000">
