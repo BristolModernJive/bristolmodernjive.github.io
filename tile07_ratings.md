@@ -7,7 +7,7 @@ nav-menu: true
 permalink: /ratings
 ---
 
-# 2019/2020 Rate my Group
+# Rate my Group Survey
 Each year the SU gathers feedback from society members via the Rate My Group (RMG) form. We've created an intuitive infographic so you can see how much our members love us!
 
 <ul class="actions fit">
