@@ -7,4 +7,12 @@ nav-menu: true
 permalink: /sponsors
 ---
 
-We are currently organizing a sponsorship draw. The winner will become the official sponsor on our merch and will be advertised on all our social medias and on this website. The remaining businesses will instead only be advertised on our socials. To enter the draw, please email bristolleroc@gmail.com or message us on our Facebook Page. 
+We are currently running a Sponsorship draw. Each participanting business can purchase one or more tickets at the price of £20 each. On the 15th of September, we will draw a ticket and the corresponding business will become our official sponsor. The benefits of the official sponsor are listed below:
+
+- It will be advertised on this page, where we will list details and offers.
+- It will appear on our merchandise, as our unique and official sponsor.
+- It will be advertised on our social media platforms.
+
+All the remaining businesses will still be advertised on our social media platforms!
+
+To enter the draw, please email bristolleroc@gmail.com or message us on our Facebook Page. 
