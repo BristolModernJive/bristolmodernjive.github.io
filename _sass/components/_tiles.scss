@@ -45,12 +45,17 @@
 				z-index: 3;
 			}
 
+			p {
+				color: _palette(tiles-bold);
+			}
+
 			h3 {
 				font-size: 1.75em;
+				color: _palette(tiles-bold);
 
 				a {
 					&:hover {
-						color: _palette(tiles-bold) !important;
+						color: inherit !important;
 					}
 				}
 			}
