@@ -11,6 +11,4 @@ We are currently finalizing our 2020-2021 Social schedule, you're gonna love it!
 
 ## Scavenger Hunt
 
-<p align="center">
-<iframe src="https://www.google.com/maps/d/embed?mid=1OWA7yy7ktxzQQduRwtbjGeEaT7H2VKjK&hl=en" width="640" height="480"></iframe>
-</p>
+
