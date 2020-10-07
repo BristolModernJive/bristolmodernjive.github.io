@@ -15,13 +15,40 @@ UoB’s Modern Jive Society hosts a lesson every week and teaches different move
 
 Our classes are taught by a professional couple: Matt Kavanagh (World Champion Dancer 2013 and 2017) and Sarah Price. We divide up into those who want to lead and those who want to follow (there are no gender expectations for these roles) and cycle round the partners for the whole lesson; guaranteeing you’ll meet at least 50% of the other members. Our society is designed around inclusivity and having fun while learning to dance!
 
-# Membership options, class price & class time
-Due to the current situation there will be 2 options that apply to term 1 only (Term 2 tbc):
+This year we are also offering solo, IN-PERSON dance-fitness classes and choreo classes!
 
-- Option 1 - Become a member for £30 giving you access to all classes in term 1 and discount on society socials
+# Classes
 
-- Option 2 - You can purchase lessons individually as a non member for £4
+- Thursdays 7:00 pm - 8:00 pm: Partner class with Matt and Sarah on ZOOM.
+- Thursdays 4:45 pm - 6:15 pm: IN-PERSON, solo dance-fitness class or choreo class in the Carpenter Room of the Richmond Building
 
+# Memberships and Pricing
+You can purchase our memberships on our [SU webpage](https://www.bristolsu.org.uk/groups/modern-jive-society).
+
+**Term 1 Membership Bundle - £30**
+
+- society membership for the year
+- access to all online classes in term 1
+- our sponsor perks
+- discounts on society socials
+- you save £14 with this bundle
+
+**1 Year Membership - £6**
+
+- purchase lessons individually at a reduced rate of £3
+- sponsor's perks
+- discounts on society socials
+- you save £5 just in the first term with this membership
+
+**You can purchase lessons individually as a non-member for £4**
+
+Please note memberships are costed to be purchased by each individual participant.
+If you have any questions about membership & pricing contact us via email - **bristolleroc@gmail.com**
+
+
+
+
+<!---
 # Stay in Touch
 Find us on our social media!
 
@@ -29,3 +56,4 @@ Find us on our social media!
 - [Facebook](https://www.facebook.com/uobmodernjive)
 
 Feel free to message us on these, or email bristolleroc@gmail.com if you have any questions.
+-->
