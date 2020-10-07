@@ -7,8 +7,13 @@ nav-menu: true
 permalink: /socials
 ---
 
-We are currently finalizing our 2020-2021 Social schedule, you're gonna love it! Follow us on our social media to stay up-to-date!
+We are currently finalizing our 2020-2021 Social schedule and we can assure you that you're gonna love it! At the moment, you can look forward to:
 
-## Scavenger Hunt
+- Baking Competition
+- Massage workshop from our sponsor PURE Spa & Beauty
+- Games night after lesson
+
+
+Follow our social media to find out more details and when these events are taking place!
 
 

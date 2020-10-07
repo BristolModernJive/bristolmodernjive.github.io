@@ -11,7 +11,7 @@ permalink: /dance_with_us
 Modern Jive is an easy-to-learn, partner dance that mixes elements of Swing, Lindy-Hop, and Rock ‘n’ Roll. It can be danced anywhere from clubs to balls, primarily to modern pop music or any song with a 4-beat time signature. 
 
 # What do we do at the Modern Jive society?
-UoB’s Modern Jive Society hosts a lesson every week and teaches different moves each time so there’s no pressure to come to every class. We welcome dancers of all abilities, including those who have never danced before, and there’s no need to bring a partner with you. 
+UoB’s Modern Jive Society hosts a partnered lesson every week and teaches different moves each time so there’s no pressure to come to every class. We welcome dancers of all abilities, including those who have never danced before, and there’s no need to bring a partner with you. 
 
 Our classes are taught by a professional couple: Matt Kavanagh (World Champion Dancer 2013 and 2017) and Sarah Price. We divide up into those who want to lead and those who want to follow (there are no gender expectations for these roles) and cycle round the partners for the whole lesson; guaranteeing you’ll meet at least 50% of the other members. Our society is designed around inclusivity and having fun while learning to dance!
 
@@ -21,6 +21,8 @@ This year we are also offering solo, IN-PERSON dance-fitness classes and choreo 
 
 - Thursdays 7:00 pm - 8:00 pm: Partner class with Matt and Sarah on ZOOM.
 - Thursdays 4:45 pm - 6:15 pm: IN-PERSON, solo dance-fitness class or choreo class in the Carpenter Room of the Richmond Building
+
+For the partnered lesson, please only dance with everyone in your support bubble!
 
 # Memberships and Pricing
 You can purchase our memberships on our [SU webpage](https://www.bristolsu.org.uk/groups/modern-jive-society).

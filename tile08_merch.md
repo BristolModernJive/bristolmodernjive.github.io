@@ -2,7 +2,7 @@
 layout: post
 title: Merch
 description: Have a look at our t-shirts!
-image: assets/images/merch.jpg
+image: assets/images/merch2020-2021.jpg
 nav-menu: true
 permalink: /merch
 ---
