@@ -7,13 +7,15 @@ nav-menu: true
 permalink: /socials
 ---
 
-We are currently finalizing our 2020-2021 Social schedule and we can assure you that you're gonna love it! At the moment, you can look forward to:
+# Climber's GIF 1
 
-- Baking Competition
-- Massage workshop from our sponsor PURE Spa & Beauty
-- Games night after lesson
+<iframe src="https://giphy.com/embed/q0aQibonedC9y" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pretty-hurts-q0aQibonedC9y">via GIPHY</a></p>
+
+# Climber's GIF 2
+
+<div style="padding-top:56.250%;position:relative;"><iframe src="https://gifer.com/embed/7kEu" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 
-Follow our social media to find out more details and when these events are taking place!
+# Climber's GIF 3
 
-
+<iframe src='https://gfycat.com/ifr/MilkyScarceFlycatcher' frameborder='0' scrolling='no' allowfullscreen width='640' height='412'></iframe>
