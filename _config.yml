@@ -4,7 +4,7 @@ subtitle: University of Bristol
 email: bristolleroc@gmail.com
 description: A simple, bubbly and fun partner dance suitable to all sorts of music genres!
 baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: https://bristolmodernjive.github.io/ # the base hostname & protocol for your site
+url:  # the base hostname & protocol for your site
 author:
 street_address: 105 Queens Road
 city: Bristol
