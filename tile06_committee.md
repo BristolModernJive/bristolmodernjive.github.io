@@ -24,7 +24,7 @@ permalink: /committee
 	<div class="6u$ 12u$(small)">
 		<h3>Treasurer: Ethan Shaw (he/him)</h3>
 		<p>Hi there! I got into modern jive in my first year at university because a friend of mine didn't want to go to the GIAG event on her own and I had nothing better to do. I'd never tried dancing before but I fell in love almost immediately. I've been here ever since. Come join us! </p>
-		<h3>Freestyle Rep: Jérémy Cochain</h3>
+		<h3>Freestyle Rep: Jérémy Cochain (he/him)</h3>
 		<p>Hi, I’m Jérémy, your freestyle representative. I moved to Bristol three years ago and discovered the style of modern jive with this society two years back. I have loved it since day one. I attended all lessons with our incredible professional teachers, Matt and Sarah, and participated in the 2020 dance show. Stay tuned for updates on freestyles taking place in the South West area… </p>
 	</div>
 	<!-- Break -->
