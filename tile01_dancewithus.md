@@ -13,41 +13,39 @@ Modern Jive is an easy-to-learn, partner dance that mixes elements of Swing, Lin
 # What do we do at the Modern Jive society?
 UoB’s Modern Jive Society hosts a partnered lesson every week and teaches different moves each time so there’s no pressure to come to every class. We welcome dancers of all abilities, including those who have never danced before, and there’s no need to bring a partner with you. 
 
-Our classes are taught by a professional couple: Matt Kavanagh (World Champion Dancer 2013 and 2017) and Sarah Price. We divide up into those who want to lead and those who want to follow (there are no gender expectations for these roles) and cycle round the partners for the whole lesson; guaranteeing you’ll meet at least 50% of the other members. Our society is designed around inclusivity and having fun while learning to dance!
-
-This year we are also offering solo, IN-PERSON dance-fitness classes and choreo classes!
+Our classes are taught by a professional couple: Matt Evans and Fran Carroll. We divide up into those who want to lead and those who want to follow (there are no gender expectations for these roles) and cycle round the partners for the whole lesson; guaranteeing you’ll meet at least 50% of the other members. Our society is designed around inclusivity and having fun while learning to dance!
 
 # Classes
 
-- Thursdays 7:00 pm - 8:00 pm: Partner class with Matt and Sarah on ZOOM.
-- Thursdays 4:45 pm - 6:15 pm: IN-PERSON, solo dance-fitness class or choreo class in the Carpenter Room of the Richmond Building
-
-For the partnered lesson, please only dance with everyone in your support bubble!
+Every Monday from 27/09/21 to 13/12/21 our classes will be held in the Carpenter Room (BS8 1LN) from 9pm to 10:15pm. After 10:15pm we will have a freestyle until 11pm where you can practice the moves you've learnt to the beat of your favourite songs!
 
 # Memberships and Pricing
 You can purchase our memberships on our [SU webpage](https://www.bristolsu.org.uk/groups/modern-jive-society).
 
-**Term 1 Membership Bundle - £30**
-
-- society membership for the year
-- access to all online classes in term 1
-- our sponsor perks
-- discounts on society socials
-- you save £14 with this bundle
-
 **1 Year Membership - £6**
 
 - purchase lessons individually at a reduced rate of £3
-- sponsor's perks
-- discounts on society socials
+- discounts on socials
 - you save £5 just in the first term with this membership
+- opportunity to join us at Blackpool, at the Dance Show and to our Chrismas ball.
+- exclusive access to our lesson bundles
+
+**4-Lesson Bundle**
+This offer will stand for the full year and gives you a reduced rate of only £2.50 per lesson!
+This is only available to members.
+
+**10-Lesson Bundle**
+This offer will stand only for the first two weeks of term (up to and including the 4th of October). It gives you a reduced rate of only £2.10 per lesson!
+This is only available to members.
+
+**Bring a Friend for Free**
+
+Bring a friend along and you'll get a free lesson on us. This offer will stand for the full year. This is only available to members.
 
 **You can purchase lessons individually as a non-member for £4**
 
 Please note memberships are costed to be purchased by each individual participant.
 If you have any questions about membership & pricing contact us via email - **bristolleroc@gmail.com**
-
-
 
 
 <!---
