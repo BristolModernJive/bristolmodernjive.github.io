@@ -9,38 +9,25 @@ permalink: /committee
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>President: Mauro Camara Escudero</h3>
+		<h3>President: Mauro Camara Escudero (he/him)</h3>
 		<p>Hey Jivers! I’m Mauro and I’m super thrilled to be part of our new committee, which you’ll get to know in the next few days through our social media. I’ve only been jiving since September and during this past year of Modern Jive I have made some incredible friends and learnt so much. I can’t stress enough how lucky we are to have had such an outstanding committee who, together with our teachers Matt and Sarah, did a marvellous job at making classes lively and enjoyable last year. I’m looking forward to dancing and chatting with every single one of you, making sure that the society runs smoothly and, most importantly, ensuring that Thursday nights will be the highlight of your week, as they are mine! Meanwhile, we have a lot of exciting activities planned for this lockdown period, so stay tuned!</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Vice-President: Andrea Becsek</h3>
-		<p>Hello lovely people 🙂 My name is Andrea and I will be your vice-president for this year. I have loved Modern Jive from the very first lesson, and I am here to help make your experience as enjoyable as possible. See you all on the dance floor!</p>
+		<h3>Vice-President: Agatha Bouis (she/her)</h3>
+		<p>Hi guys, I’m Agatha and I’ll be your Vice President for the year! Although I’ve only been jiving for two years now, I’ve pretty much fallen in love with the style and the society in general. As a committee, we’ll be working hard to ensure that everything this year runs as smoothly as possible to give you the best possible jiving experience. I’ll always be around for a friendly chat or to answer any specific questions you may have. I’m so excited to be able to see everyone again and hopefully meet new people to dance with. Cheers! </p>
 	</div>
 	<!-- Break -->
 	<div class="6u 12u$(small)">
-		<h3>Social Sec: Isabel Bromfield</h3>
-		<p>Hi guys, I’m Izzy and I’ll be your social sec this year. I’ve only been jiving for a year but I love how easy it is to learn! When we can all get back to jiving modernly together again I’m looking forward to hosting a wide variety of socials and some inter-society events to get more people dancing! Before then, I’ll be your go-to for online content and games nights</p>
+		<h3>Secretary / Equality & Diversity Officer: Rosalind Tait (she/her)</h3>
+		<p>Hey there, jivers! I am thrilled to have been elected as your Secretary for a second year running. Expect frequent email newsletters and social media alerts from me, keeping you all in the loop regarding our weekly classes and upcoming socials. I am fairly new to modern jive but have been dancing from a very young age, studying ballet and musical theatre. I have been an active member of the society for the past two years, participating in the dance show, attending local freestyles and making the most of the many social opportunities. This society truly is my happy place. It is where I met my boyfriend, made some of my closest friends and grew in confidence as a person and dancer. We are a fun, friendly society, welcoming dancers of all ages and abilities, so please do come along and give modern jive a go. Here’s to sharing the dance floor with you all in September. Until then, as they say on Strictly, KEEEEP DANCING…</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Treasurer: Jamie Cameron</h3>
-		<p>Hey, I’m James and it brings me great excitement to become your treasurer for the coming year. This year may be a unique situation, but Jive will still be there for you and I’ll be around to help make it as fun and inclusive as possible. I can’t wait to dance with you all again soon but in the meantime as I work on the budgets etc feel free to get in touch about anything jive!</p>
-	</div>
-	<!-- Break -->
-	<div class="6u 12u$(small)">
-		<h3>Secretary: Rosalind Tait</h3>
-		<p>Hi everyone! My name is Rosalind and I’ll be Secretary of the society this year. I am fairly new to modern jive but I have been dancing from a very young age. I have been an active member of the society for the past year, participating in the dance show, attending local freestyles, and making the most of the many social opportunities. We are a very friendly, inclusive society, welcoming dancers of all levels, so do come along and give modern jive a go. I’m Looking forward to sharing the dance floor with you all in September. Until then, as they say on Strictly, keeeep dancing!</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Equality & Diversity Officer: Izzi Eyles</h3>
-		<p>Hi everyone! I’m Izzi (with an i), and I’m super excited to be your Equality and Diversity Officer next year. If you ever have any issues at jive, any ideas to make the society even more inclusive, or you just want a chat, come and say hi! I can’t wait to get to know more of you next year 🙂</p>
+		<h3>Treasurer: Ethan Shaw (he/him)</h3>
+		<p>Hi there! I got into modern jive in my first year at university because a friend of mine didn't want to go to the GIAG event on her own and I had nothing better to do. I'd never tried dancing before but I fell in love almost immediately. I've been here ever since. Come join us! </p>
 	</div>
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Freestyle Rep: Jérémy Cochain</h3>
-		<p>Hi folks, I’m Jeremy, the new freestyle rep and I am very happy to be part of this amazing committee! I will be looking around to share with you many great Jive related events, to dance more, meet more people, and generally have more fun with Jive!</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Music Rep: Ethan Shaw</h3>
-		<p>Hi, I'm Ethan and I'm the music rep for this year. I'm the person in charge of taking your song requests and seeing whether they can go on the freestyle playlists, so be nice! I'm looking forward to meeting new members of the society and will hopefully be at least somewhat of a positive influence. I'm primarily a lead, though I'm open to trying out following at least once this year. I'm excited to meet you all this year and hope that we can inspire a new passion within some of you!</p>
+		<p>Hi, I’m Jérémy, your freestyle representative. I moved to Bristol three years ago and discovered the style of modern jive with this society two years back. I have loved it since day one. I attended all lessons with our incredible professional teachers, Matt and Sarah, and participated in the 2020 dance show. Stay tuned for updates on freestyles taking place in the South West area… </p>
 	</div>
 </div>
