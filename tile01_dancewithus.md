@@ -30,17 +30,11 @@ You can purchase our memberships on our [SU webpage](https://www.bristolsu.org.u
 - opportunity to join us at Blackpool, at the Dance Show and to our Chrismas ball.
 - exclusive access to our lesson bundles
 
-**4-Lesson Bundle**
-This offer will stand for the full year and gives you a reduced rate of only £2.50 per lesson!
-This is only available to members.
+**4-Lesson Bundle** Reduced rate of only £2.50 per lesson! Note this is only available to members (offer will stand for the full year).
 
-**10-Lesson Bundle**
-This offer will stand only for the first two weeks of term (up to and including the 4th of October). It gives you a reduced rate of only £2.10 per lesson!
-This is only available to members.
+**10-Lesson Bundle** Reduced rate of only £2.10 per lesson! Note this is only available to members. (offer will stand only up to and including 4/10/21).
 
-**Bring a Friend for Free**
-
-Bring a friend along and you'll get a free lesson on us. This offer will stand for the full year. This is only available to members.
+**Bring a Friend for Free** Bring a friend along and you'll get a free lesson on us. This offer will stand for the full year. This is only available to members.
 
 **You can purchase lessons individually as a non-member for £4**
 
