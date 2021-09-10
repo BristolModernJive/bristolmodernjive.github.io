@@ -2,7 +2,7 @@
 layout: post
 title: Our Committee
 description: Get to know your committee!
-image: assets/images/committee.jpg
+image: assets/images/committee.jpeg
 nav-menu: true
 permalink: /committee
 ---
